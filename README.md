@@ -1,4 +1,4 @@
-# RegistrationForm
+# Registration Form
 Registration Form With Tkinter!
 
 
@@ -7,4 +7,4 @@ Registration Form With Tkinter!
 
 A simple registration form with tkinter and databases to save the record.
 
-Run: python registrationform.py
+Run: python RegistrationForm.py
